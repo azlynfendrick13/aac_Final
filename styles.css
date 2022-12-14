@@ -1,11 +1,12 @@
-﻿@charset "utf-8";
+@charset "utf-8";
+
 @font-face {
 	font-family: Glacial Indifference;
 	src: url('glacial-indifference.regular.otf') format('OpenType');
 }
 /*
 	Azlyn Fendrick
-	5 December 2022
+	13 December 2022
 	CMIS Final Project
 
 	Website template based on Tutorial 2: Tri andf Suceed Sports.
